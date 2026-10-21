@@ -2,8 +2,8 @@
 # La genera scripts/release.sh a partir de esta plantilla; no se edita a mano
 # en el tap.
 cask "gitswitcher" do
-  version "1.2.2"
-  sha256 "f98e4ceb935428b5af502f78096f24ca46b38b82d7338551c03bb9b6dfe67e28"
+  version "1.2.3"
+  sha256 "7d6ef1d3454b6a11092240bee0af9ba62d2a5405c834d0e5a062b6538829df25"
 
   url "https://github.com/marcosesperon/GitSwitcher/releases/download/v#{version}/GitSwitcher-#{version}.zip"
   name "GitSwitcher"
